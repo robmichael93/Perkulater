@@ -24,7 +24,7 @@ import java.awt.event.*;
 import java.net.*;
 import java.text.DecimalFormat;
 import javax.net.ssl.*;
-import com.sun.net.ssl.*;
+//import com.sun.net.ssl.*;
 import java.security.*;
 import java.security.cert.*;
 import cs3773.*;
